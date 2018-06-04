@@ -65,9 +65,15 @@
 #define E0_DIR_PIN         34
 #define E0_ENABLE_PIN      30
 
+#define Y2_STEP_PIN        26
+#define Y2_DIR_PIN         28
+#define Y2_ENABLE_PIN      24
+
+/*  Original
 #define E1_STEP_PIN        26
 #define E1_DIR_PIN         28
 #define E1_ENABLE_PIN      24
+*/
 
 #undef X_CS_PIN
 #undef Y_CS_PIN
